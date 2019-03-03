@@ -24,8 +24,7 @@
 
 ##DOWNLOADS
 - System Image: https://mega.nz/#!ydgmwCIA!dMJIjAXgAFzunI8eJ4u42_g7gCpqXnwhpCCytEXy_w0
-
-Vendor: https://sourceforge.net/projects/pixeldust-treble/files/vendor/
+- Vendor: https://sourceforge.net/projects/pixeldust-treble/files/vendor/
 
 POST-sGSI: https://mega.nz/#!OtRDyahA!3-nRCL8AHe_zJ5b1f8WSyaMOedgkuEb5f-7e1XfKekQInCallAudio Fix: https://mega.nz/#!i0AREajJ!TZBfwxOf_fGdzlXKy7dFVEW4aPLGddZc9VqyiOc4eZY
 
