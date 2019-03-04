@@ -1,6 +1,6 @@
 # OxygenOS Pie for Mi A1
 
-- For Pixel Pie sGSI (MI A1 -B), check [here](https://gist.github.com/TheGabrielHoward/71d22d6d7c6bb71d02a37f8cc5dc8d3f)
+- For Pixel Pie sGSI (MI A1 - AB), check [here](https://gist.github.com/TheGabrielHoward/71d22d6d7c6bb71d02a37f8cc5dc8d3f)
 
 ## Instructions
 
