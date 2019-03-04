@@ -6,7 +6,7 @@
 
 1. Your device should have treble partitions. (Tissot Manager > Repartition)
 
-2. Wipe system, data, cache and vend
+2. Wipe system, data, cache and vendor
 
 3. Flash OOS GSI port by @Khode_Erfan 
 
