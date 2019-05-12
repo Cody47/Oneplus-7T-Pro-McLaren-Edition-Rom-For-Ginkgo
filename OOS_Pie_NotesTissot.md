@@ -1,4 +1,4 @@
-# OxygenOS Pie for Mi A1 [DESCONTINUED GIST][Last update: May 12]
+# OxygenOS Pie for Mi A1 [DESCONTINUED GIST]
 ## Important
 - PIXEL P sGSI [GIST](https://gist.github.com/TheGabrielHoward/71d22d6d7c6bb71d02a37f8cc5dc8d3f)
 - P/Q sGSI TELEGRAM GROUP: [@PsemiGSI](t.me/psemigsi)
