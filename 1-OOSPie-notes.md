@@ -22,9 +22,8 @@
 - Go to Tissot Manager > Patches > Change SeLinux to Permissive Mode
 - Reboot to Recovery
 - Mount system and vendor
-- Flash OOS-POST-GSI by me. It also includes camera fix by @Khode_Erfan
+- Flash OOS-POST-GSI and all fixes (Check Downloads)
 - Reboot to system.
-- If you have no-incall sound, flash acdb_p_gsi.zip. Thanks to flex for acdb fix
 
 ### Notes
 - For wifi, turn on hotspot first (though it is bugged so it won't turn ON), then turn on wifi. It will work.
