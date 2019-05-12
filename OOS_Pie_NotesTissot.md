@@ -15,7 +15,8 @@
 - Your device should have treble partitions. (Tissot Manager > Repartition)
 - Wipe system, data, cache and vendor
 - Flash OOS System Image 
-- Flash vendor imag
+- Flash vendor Image
+- Flash boot Image (for flex's vendor)
 - Flash any treble compatible kernel
 - Flash Magisk (Optional)
 - Go to Tissot Manager > Patches > Change SeLinux to Permissive Mode
