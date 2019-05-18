@@ -1,3 +1,4 @@
+*Waiting for GabrielHowardCI sync...*
 # OxygenOS Pie for Mi A1 [DESCONTINUED GIST]
 ## Important
 - PIXEL P sGSI [GIST](https://gist.github.com/TheGabrielHoward/71d22d6d7c6bb71d02a37f8cc5dc8d3f)
@@ -33,7 +34,7 @@
 ## Downloads
 ### System Image
 Latest Oxygen OS Build
-- [OxygenOS AB 20190503](https://mirrors.lolinet.com/firmware/gsi/OxygenOS-AB-9-20190503-ErfanGSI.img.7z)
+- [OxygenOS AB 20190518](https://mirrors.lolinet.com/firmware/gsi/.7z)
 
 ### Vendor Image
 - [**RECOMMENDED** - Vendor 20190501.img](https://drive.google.com/open?id=1Uuv9hL9bC-ApNfnLEbly7dFR_eeOCEcu)
