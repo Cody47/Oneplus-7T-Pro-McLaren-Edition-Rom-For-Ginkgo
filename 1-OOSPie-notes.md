@@ -1,5 +1,5 @@
 *Waiting for GabrielHowardCI sync...*
-# OxygenOS Pie for Mi A1 [DESCONTINUED GIST]
+# OxygenOS Pie for Mi A1
 ## Important
 - PIXEL P sGSI [GIST](https://gist.github.com/TheGabrielHoward/71d22d6d7c6bb71d02a37f8cc5dc8d3f)
 - P/Q sGSI TELEGRAM GROUP: [@PsemiGSI](t.me/psemigsi)
@@ -8,6 +8,7 @@
 
 ----------------
 ### known Bugs
+- SELinux is Permissive
 - FIX AVAILABLE - Hotspot (Working by an app but with No internet access)
 - FIX AVAILABLE - Power Menu Toggles (As they don't work, you have to restart with long pressing power button and to go to recovery long press power+vol.up)
 - FIX AVAILABLE - Brightness is too low
@@ -34,7 +35,7 @@
 ## Downloads
 ### System Image
 Latest Oxygen OS Build
-- [OxygenOS AB 20190518](https://mirrors.lolinet.com/firmware/gsi/.7z)
+- [OxygenOS (June 06)](https://mirrors.lolinet.com/firmware/gsi/OxygenOS-AB-9-20190606-ErfanGSI.img.7z)
 
 ### Vendor Image
 - [**RECOMMENDED** - Vendor 20190501.img](https://drive.google.com/open?id=1Uuv9hL9bC-ApNfnLEbly7dFR_eeOCEcu)
