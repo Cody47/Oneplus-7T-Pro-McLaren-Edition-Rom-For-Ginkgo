@@ -9,6 +9,7 @@
 ----------------
 ### known Bugs
 - SELinux is Permissive
+- Deep Sleep
 - FIX AVAILABLE - Hotspot (Working by an app but with No internet access)
 - FIX AVAILABLE - Power Menu Toggles (As they don't work, you have to restart with long pressing power button and to go to recovery long press power+vol.up)
 - FIX AVAILABLE - Brightness is too low
