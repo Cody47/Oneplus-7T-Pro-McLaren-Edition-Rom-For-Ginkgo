@@ -35,8 +35,8 @@
 
 ## Downloads
 ### System Image
-Latest Oxygen OS Build
-- [OxygenOS (June 01)](https://mirrors.lolinet.com/firmware/gsi/OxygenOS-AB-9-20190701-ErfanGSI.img.7z)
+Latest Oxygen OS Build (Android 9)
+- [OxygenOS (July 01)](https://mirrors.lolinet.com/firmware/gsi/OxygenOS-AB-9-20190701-ErfanGSI.img.7z)
 
 ### Vendor Image
 - [**RECOMMENDED** - Vendor 20190501.img](https://drive.google.com/open?id=1Uuv9hL9bC-ApNfnLEbly7dFR_eeOCEcu)
