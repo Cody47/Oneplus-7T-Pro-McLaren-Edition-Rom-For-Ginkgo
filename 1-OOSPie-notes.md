@@ -36,7 +36,7 @@
 ## Downloads
 ### System Image
 Latest Oxygen OS Build
-- [OxygenOS (June 06)](https://mirrors.lolinet.com/firmware/gsi/OxygenOS-AB-9-20190606-ErfanGSI.img.7z)
+- [OxygenOS (June 01)](https://mirrors.lolinet.com/firmware/gsi/OxygenOS-AB-9-20190701-ErfanGSI.img.7z)
 
 ### Vendor Image
 - [**RECOMMENDED** - Vendor 20190501.img](https://drive.google.com/open?id=1Uuv9hL9bC-ApNfnLEbly7dFR_eeOCEcu)
@@ -47,8 +47,8 @@ For 20190501 flex's vendor
 - [Boot Image 20190501.img](https://drive.google.com/open?id=1aQMvuK5mV9dXMIWNqP9LFo9FwCPT5SV9)
 
 ### Other Fixes
-- Brightness Fix: [GDrive](https://drive.google.com/open?id=1AnAuqnkxcX7NcT-w6sYV-RA0YNZckqq2)
-- POST GSI: [GDrive](https://drive.google.com/open?id=1aq4aApCPoqDZHbLApJo9skWIvPkg0eoo)
+- Brightness Fix: [GDrive](https://drive.google.com/file/d/1-YvoKYlll1SIMbToDaO4MOeKOKZH8AiX/view?usp=drivesdk)
+- POST GSI: [GDrive](https://drive.google.com/file/d/1-RNjlEHv1r0LNekpny5WLo6G1-ukIpp7/view?usp=drivesdk)
 - InCallAudio Fix: [Mega](https://mega.nz/#!i0AREajJ!TZBfwxOf_fGdzlXKy7dFVEW4aPLGddZc9VqyiOc4eZY)
-- RestartPowerOff Fix: [GDrive](https://drive.google.com/open?id=14Lo-LqOk-vVh0ZwNaj0F5oLJLh2bIsqZ)
+- RestartPowerOff Fix: [GDrive](https://drive.google.com/file/d/1-cNQZ5iHz9mSK9AIyfbR2MA6ikeqs3Tb/view?usp=drivesdk)
 - NavBarEnabler (Magisk): [GDrive](https://drive.google.com/file/d/1Ws09GhcqIf90rws0hsOakV-mPfQhwAZL/view?usp=drivesdk)
