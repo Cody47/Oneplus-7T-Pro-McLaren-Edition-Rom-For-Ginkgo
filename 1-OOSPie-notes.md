@@ -39,12 +39,12 @@ Latest Oxygen OS Build Based on OP6
 - [OxygenOS 9 (August 22)](https://mirrors.lolinet.com/firmware/gsi/OxygenOS-AB-9-20190822-ErfanGSI.img.7z)
 
 ### Vendor Image
-- [**RECOMMENDED** - Vendor 20190501.img](https://drive.google.com/open?id=1Uuv9hL9bC-ApNfnLEbly7dFR_eeOCEcu)
+- [**RECOMMENDED** - Vendor 20190731.img](https://drive.google.com/file/d/1n1TcOXpVtore5M7-lVpHv7IP9Q3z00Sv/view)
+- [Vendor 20190501.img](https://drive.google.com/file/d/1Uuv9hL9bC-ApNfnLEbly7dFR_eeOCEcu/view)
 
 ### Boot Image
-For 20190501 flex's vendor
-- [**RECOMMENDED** - Edited Boot Image 20190501.img](https://t.me/PsemiGSI/19770)
-- [Boot Image 20190501.img](https://drive.google.com/open?id=1aQMvuK5mV9dXMIWNqP9LFo9FwCPT5SV9)
+- [**RECOMMENDED** - Boot Image 20190501.img](https://drive.google.com/open?id=1aQMvuK5mV9dXMIWNqP9LFo9FwCPT5SV9)
+- [Edited Boot Image 20190501.img](https://t.me/PsemiGSI/19770)
 
 ### Other Fixes
 - Brightness Fix: [GDrive](https://drive.google.com/file/d/1-YvoKYlll1SIMbToDaO4MOeKOKZH8AiX/view?usp=drivesdk)
