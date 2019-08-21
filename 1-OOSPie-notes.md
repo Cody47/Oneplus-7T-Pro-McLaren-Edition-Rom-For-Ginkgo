@@ -44,7 +44,7 @@ Latest Oxygen OS Build Based on OP6
 
 ### Boot Image
 - [**RECOMMENDED** - Boot Image 20190501.img](https://drive.google.com/open?id=1aQMvuK5mV9dXMIWNqP9LFo9FwCPT5SV9)
-- [Edited Boot Image 20190501.img](https://t.me/PsemiGSI/19770)
+- [**NOT RECOMMENDED - NEW** - Boot Image 20190730.img](https://drive.google.com/file/d/1ikjaPp_s5gY4U5rTBQSDGUPIKvXpF6Cg/view)
 
 ### Other Fixes
 - Brightness Fix: [GDrive](https://drive.google.com/file/d/1-YvoKYlll1SIMbToDaO4MOeKOKZH8AiX/view?usp=drivesdk)
