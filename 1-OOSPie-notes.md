@@ -62,6 +62,11 @@ Latest Oxygen OS: 9
 - InCallAudio Fix: [Mega](https://mega.nz/#!i0AREajJ!TZBfwxOf_fGdzlXKy7dFVEW4aPLGddZc9VqyiOc4eZY)
 - RestartPowerOff Fix: [GDrive](https://drive.google.com/file/d/1-cNQZ5iHz9mSK9AIyfbR2MA6ikeqs3Tb/view?usp=drivesdk)
 - NavBarEnabler (Magisk): [GDrive](https://drive.google.com/file/d/1Ws09GhcqIf90rws0hsOakV-mPfQhwAZL/view?usp=drivesdk)
+- HDR Fix (TWRP): [GDrive](https://drive.google.com/open?id=1eCQG34rmxGnKPZ9XvVneqUcktO1XFoio)
+
+**ROUNDED CORNERS FIX**
+- oneplus-framework-res: [GDrive](https://drive.google.com/open?id=1tRzQUbEH2HecWa1xjW7Fey-5yjk99pZj)
+Move this apk to System/priv-app/oneplus-framework-res folder and reboot
 
 ### Kernel
 NOTE: Kernel is not necessary
