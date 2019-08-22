@@ -99,7 +99,7 @@ adb install cameraname.apk
 
 ### Disable Hardware Capacitive Buttons
 In order to disable Capacitive Buttons flash this module in Magisk and reboot
-- [**RECOMMENDED** - HWKeys-Disabler.zip](https://drive.google.com/file/d/1-7P1VW1TFDA4glCL2n2F
+- [**RECOMMENDED** - HWKeys-Disabler.zip](https://drive.google.com/file/d/1-7P1VW1TFDA4glCL2n2F)
 
 ### Wrong Pin/Password Fix
 In order to fix Wrong Pin/Password, flash [Permissiver_v5](https://www.androidfilehost.com/?fid=6006931924117940902)
