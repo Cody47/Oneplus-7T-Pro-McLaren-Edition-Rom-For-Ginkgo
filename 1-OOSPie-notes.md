@@ -1,5 +1,5 @@
 *Waiting for GabrielHowardCI sync...*
-# OxygenOS Pie for Mi A1
+# OxygenOS 9 for AB Devices - NOTES for Mi A1
 ## Important
 - Android 10 GSI Notes: https://gist.github.com/TheGabrielHoward/1666186cc4f151de8f6bea4872c30e1a
 - 9/10 GSI TELEGRAM GROUP: [@PsemiGSI](t.me/psemigsi)
