@@ -15,14 +15,14 @@
 ### How To Install
 **CLEAN FLASH**
 
-IMPORTANT: Treble needed
+IMPORTANT: Treble Needed
 - Wipe data, cache, system and vendor (Format Data optional)
 - Flash boot image
 - Flash system image
 - Flash vendor image
-- Flash [Permissiver_v5](https://www.androidfilehost.com/?fid=6006931924117940902) or TissotManager > Patches > SELinux state > Permissive
-- Flash *Fixes above*
+- Flash [Permissiver_v5.zip](https://www.androidfilehost.com/?fid=6006931924117940902) or TissotManager > Patches > SELinux state > Permissiver
 - Reboot to system
+- Flash the *Fixes above*
 - If you want, reboot to recovery and flash magisk
 
 
