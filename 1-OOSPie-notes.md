@@ -21,9 +21,9 @@ IMPORTANT: Treble needed
 - Flash system image
 - Flash vendor image
 - Flash [Permissiver_v5](https://www.androidfilehost.com/?fid=6006931924117940902) or TissotManager > Patches > SELinux state > Permissive
+- Flash *Fixes above*
 - Reboot to system
-- Once booted, install GMS Apk (check above)
-- If you want, reboot to recovery and flash magisk and lagfix
+- If you want, reboot to recovery and flash magisk
 
 
 **DIRTY FLASH**
@@ -39,14 +39,13 @@ To dirty flash (update) any boot, system or vendor image, do this:
 ### Notes
 - For wifi, turn on hotspot first (though it is bugged so it won't turn ON), then turn on wifi. It will work.
 - For in-call earphone sound, Go to the phone app>Tap on 3 dots at top right>Settings>Disabe Noise Cancellation
-- For disabling hw buttons. Flash Navbar Enabler Magisk Module by @StallixDOWNLOADS
+- For disabling hw buttons download HW Keys Disabler
 
 ----------------
 
 ### System Image
 Latest Oxygen OS: 9
-- [**RECOMMENDED** - OxygenOS 9 **OP6** (August 26)](OxygenOS-AB-9-20190826-ErfanGSI.img.7z
-841.1 MB)
+- [**RECOMMENDED** - OxygenOS 9 **OP6** (August 26)](https://mirrors.lolinet.com/firmware/gsi/OxygenOS/OxygenOS-AB-9-20190826-ErfanGSI.img.7z)
 
 ### Vendor Image
 - [**RECOMMENDED** - Vendor 20190731.img](https://drive.google.com/file/d/1n1TcOXpVtore5M7-lVpHv7IP9Q3z00Sv/view)
