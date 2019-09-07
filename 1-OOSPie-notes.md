@@ -45,7 +45,8 @@ To dirty flash (update) any boot, system or vendor image, do this:
 
 ### System Image
 Latest Oxygen OS: 9
-- [**RECOMMENDED** - OxygenOS 9 **OP6** (August 26)](https://mirrors.lolinet.com/firmware/gsi/OxygenOS/OxygenOS-AB-9-20190826-ErfanGSI.img.7z)
+- [**RECOMMENDED**  - OxygenOS 9 - **OP6** (July 15)](https://sourceforge.net/projects/bikram-project/files/Pie/Gsi-P/OnePlus-Gsi/OnePlus6-BETA-V22-20190715-AB-GSI.img.7z/download)
+- [OxygenOS 9 **NULL** (August 26)](https://mirrors.lolinet.com/firmware/gsi/OxygenOS/OxygenOS-AB-9-20190826-ErfanGSI.img.7z)
 
 ### Vendor Image
 - [**RECOMMENDED** - Vendor 20190731.img](https://drive.google.com/file/d/1n1TcOXpVtore5M7-lVpHv7IP9Q3z00Sv/view)
