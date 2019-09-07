@@ -45,8 +45,8 @@ To dirty flash (update) any boot, system or vendor image, do this:
 
 ### System Image
 Latest Oxygen OS: 9
-- [**RECOMMENDED** OxygenOS 9 **OP6** (August 22)](https://mirrors.lolinet.com/firmware/gsi/OxygenOS-AB-9-20190822-ErfanGSI.img.7z)
-- [OxygenOS 9 **OP7Pro** (August 22)](https://mirrors.lolinet.com/firmware/gsi/OxygenOS-AB-9-20190820-ErfanGSI.img.7z)
+- [**RECOMMENDED** - OxygenOS 9 **OP6** (August 26)](OxygenOS-AB-9-20190826-ErfanGSI.img.7z
+841.1 MB)
 
 ### Vendor Image
 - [**RECOMMENDED** - Vendor 20190731.img](https://drive.google.com/file/d/1n1TcOXpVtore5M7-lVpHv7IP9Q3z00Sv/view)
