@@ -45,8 +45,7 @@ To dirty flash (update) any boot, system or vendor image, do this:
 
 ### System Image
 Latest Oxygen OS: 9
-- [**RECOMMENDED**  - OxygenOS 9 - **OP6** (July 15)](https://sourceforge.net/projects/bikram-project/files/Pie/Gsi-P/OnePlus-Gsi/OnePlus6-BETA-V22-20190715-AB-GSI.img.7z/download)
-- [OxygenOS 9 **NULL** (August 26)](https://mirrors.lolinet.com/firmware/gsi/OxygenOS/OxygenOS-AB-9-20190826-ErfanGSI.img.7z)
+- [**RECOMMENDED**  - OxygenOS 9 - From OP6 (September 04)](https://drive.google.com/file/d/1pggRc_etD5TsxGOhbHk93XUEJiIw_U5P/view?usp=drivesdk)
 
 ### Vendor Image
 - [**RECOMMENDED** - Vendor 20190731.img](https://drive.google.com/file/d/1n1TcOXpVtore5M7-lVpHv7IP9Q3z00Sv/view)
@@ -57,12 +56,14 @@ Latest Oxygen OS: 9
 - [Boot Image 20190730.img](https://drive.google.com/file/d/1ikjaPp_s5gY4U5rTBQSDGUPIKvXpF6Cg/view)
 
 ### Fixes for OOS
-- Brightness Fix: [GDrive](https://drive.google.com/file/d/1-YvoKYlll1SIMbToDaO4MOeKOKZH8AiX/view?usp=drivesdk)
-- POST GSI: [GDrive](https://drive.google.com/file/d/1-RNjlEHv1r0LNekpny5WLo6G1-ukIpp7/view?usp=drivesdk)
-- InCallAudio Fix: [Mega](https://mega.nz/#!i0AREajJ!TZBfwxOf_fGdzlXKy7dFVEW4aPLGddZc9VqyiOc4eZY)
+- Permissiver v5 [AndroidFileHost](https://androidfilehost.com/?fid=6006931924117940902)
+- Rounded Corners Fix [GDrive](https://drive.google.com/file/d/1HYL_ELeJkMAbYY_yiw8f7tju4oSuIM7m/view?usp=sharing)
+- **NO NEED** - Brightness Fix: [GDrive](https://drive.google.com/file/d/1-YvoKYlll1SIMbToDaO4MOeKOKZH8AiX/view?usp=drivesdk)
+- **NO NEED** - POST GSI: [GDrive](https://drive.google.com/file/d/1-RNjlEHv1r0LNekpny5WLo6G1-ukIpp7/view?usp=drivesdk)
+- **NO NEED** - InCallAudio Fix: [GDrive](https://drive.google.com/file/d/1J-btgd5fdjcdl-CkRscr1t35rVMKGl79/view?usp=sharing)
 - RestartPowerOff Fix: [GDrive](https://drive.google.com/file/d/1-cNQZ5iHz9mSK9AIyfbR2MA6ikeqs3Tb/view?usp=drivesdk)
 - NavBarEnabler (Magisk): [GDrive](https://drive.google.com/file/d/1Ws09GhcqIf90rws0hsOakV-mPfQhwAZL/view?usp=drivesdk)
-- HDR Fix (TWRP): [GDrive](https://drive.google.com/open?id=1eCQG34rmxGnKPZ9XvVneqUcktO1XFoio)
+- **NO NEED** - HDR Fix (TWRP): [GDrive](https://drive.google.com/open?id=1eCQG34rmxGnKPZ9XvVneqUcktO1XFoio)
 
 **ROUNDED CORNERS FIX**
 - oneplus-framework-res: [GDrive](https://drive.google.com/open?id=1tRzQUbEH2HecWa1xjW7Fey-5yjk99pZj)
