@@ -37,8 +37,6 @@ To dirty flash (update) any boot, system or vendor image, do this:
 
 
 ### Notes
-- For wifi, turn on hotspot first (though it is bugged so it won't turn ON), then turn on wifi. It will work.
-- For in-call earphone sound, Go to the phone app>Tap on 3 dots at top right>Settings>Disabe Noise Cancellation
 - For disabling hw buttons download HW Keys Disabler
 
 ----------------
@@ -64,10 +62,6 @@ Latest Oxygen OS: 9
 - **NO NEED** - POST GSI: [GDrive](https://drive.google.com/file/d/1-RNjlEHv1r0LNekpny5WLo6G1-ukIpp7/view?usp=drivesdk)
 - **NO NEED** - InCallAudio Fix: [GDrive](https://drive.google.com/file/d/1J-btgd5fdjcdl-CkRscr1t35rVMKGl79/view?usp=sharing)
 - **NO NEED** - HDR Fix (TWRP): [GDrive](https://drive.google.com/open?id=1eCQG34rmxGnKPZ9XvVneqUcktO1XFoio)
-
-**ROUNDED CORNERS FIX**
-- oneplus-framework-res: [GDrive](https://drive.google.com/open?id=1tRzQUbEH2HecWa1xjW7Fey-5yjk99pZj)
-Move this apk to System/priv-app/oneplus-framework-res folder and reboot
 
 ### Kernel
 NOTE: Kernel is not necessary
