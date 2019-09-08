@@ -22,7 +22,7 @@ IMPORTANT: Treble Needed
 - Flash vendor image
 - Flash [Permissiver_v5.zip](https://www.androidfilehost.com/?fid=6006931924117940902) or TissotManager > Patches > SELinux state > Permissiver
 - Reboot to system
-- Flash the *Fixes above*
+- Mount system and vendor and Flash the *Fixes above*
 - If you want, reboot to recovery and flash magisk
 
 
@@ -58,11 +58,11 @@ Latest Oxygen OS: 9
 ### Fixes for OOS
 - Permissiver v5 [AndroidFileHost](https://androidfilehost.com/?fid=6006931924117940902)
 - Rounded Corners Fix [GDrive](https://drive.google.com/file/d/1HYL_ELeJkMAbYY_yiw8f7tju4oSuIM7m/view?usp=sharing)
+- RestartPowerOff Fix: [GDrive](https://drive.google.com/file/d/1-cNQZ5iHz9mSK9AIyfbR2MA6ikeqs3Tb/view?usp=drivesdk)
+- NavBarEnabler (Magisk): [GDrive](https://drive.google.com/file/d/1Ws09GhcqIf90rws0hsOakV-mPfQhwAZL/view?usp=drivesdk)
 - **NO NEED** - Brightness Fix: [GDrive](https://drive.google.com/file/d/1-YvoKYlll1SIMbToDaO4MOeKOKZH8AiX/view?usp=drivesdk)
 - **NO NEED** - POST GSI: [GDrive](https://drive.google.com/file/d/1-RNjlEHv1r0LNekpny5WLo6G1-ukIpp7/view?usp=drivesdk)
 - **NO NEED** - InCallAudio Fix: [GDrive](https://drive.google.com/file/d/1J-btgd5fdjcdl-CkRscr1t35rVMKGl79/view?usp=sharing)
-- RestartPowerOff Fix: [GDrive](https://drive.google.com/file/d/1-cNQZ5iHz9mSK9AIyfbR2MA6ikeqs3Tb/view?usp=drivesdk)
-- NavBarEnabler (Magisk): [GDrive](https://drive.google.com/file/d/1Ws09GhcqIf90rws0hsOakV-mPfQhwAZL/view?usp=drivesdk)
 - **NO NEED** - HDR Fix (TWRP): [GDrive](https://drive.google.com/open?id=1eCQG34rmxGnKPZ9XvVneqUcktO1XFoio)
 
 **ROUNDED CORNERS FIX**
