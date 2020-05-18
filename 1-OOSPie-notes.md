@@ -88,5 +88,5 @@ In order to disable Capacitive Buttons flash this module in Magisk and reboot
 
 ------------
 <p align="center">
- Created & Maintained by Gabriel Howard | All Rights Reserved
+ Created & Maintained by Jerry (Cody47) | All Rights Reserved
  </p>
