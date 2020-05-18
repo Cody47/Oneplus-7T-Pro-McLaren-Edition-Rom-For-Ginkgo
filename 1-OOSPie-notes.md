@@ -1,16 +1,15 @@
-*Waiting for GabrielHowardCI sync...*
-# OxygenOS 9 for AB Devices - NOTES for Mi A1
+*Waiting for cody47 sync...*
+# OxygenOS 10.3.2 for AB Devices - NOTES for Note 8 (Ginkgo)
 ## Important
-- Android 10 GSI Notes: https://gist.github.com/TheGabrielHoward/1666186cc4f151de8f6bea4872c30e1a
-- 9/10 GSI TELEGRAM GROUP: [@PsemiGSI](t.me/psemigsi)
+- OOS TELEGRAM GROUP: [@oosginkgo]
 - SOME NOTES ARE IN THE GROUP, I RECOMMEND JOIN
 - **READ ALL** GUIDE BEFORE ASKING ON THE GROUP, YOU ARE WARNED
 
 ![ooospreview](https://www.xda-developers.com/files/2018/07/oxygenos-logo-feature.png)
 ----------------
 ### known Bugs
-- SELinux is Permissive
-- Deep Sleep (On some builds)
+- Every Bugs Fixed in this Build, Thanks to Cody47 and Trinket Devs
+
 
 ### How To Install
 **CLEAN FLASH**
@@ -20,7 +19,7 @@ IMPORTANT: Treble Needed
 - Flash boot image
 - Flash system image
 - Flash vendor image
-- Flash [Permissiver_v5.zip](https://www.androidfilehost.com/?fid=6006931924117940902) or TissotManager > Patches > SELinux state > Permissiver
+- Flash [Permissiver_v5.zip](https://www.androidfilehost.com/?fid=6006931924117940902) or GinkgoManager > Patches > SELinux state > Permissiver
 - Reboot to system
 - Mount system and vendor and Flash the *Fixes above*
 - If you want, reboot to recovery and flash magisk
@@ -42,8 +41,8 @@ To dirty flash (update) any boot, system or vendor image, do this:
 ----------------
 
 ### System Image
-Latest Oxygen OS: 9
-- [**RECOMMENDED**  - OxygenOS 9 - From OP6 (September 04)](https://drive.google.com/file/d/1pggRc_etD5TsxGOhbHk93XUEJiIw_U5P/view?usp=drivesdk)
+Latest Oxygen OS: 18
+- [**RECOMMENDED**  - OxygenOS 10 - From OP7TPro (May 16)](https://drive.google.com/file/d/1pggRc_etD5TsxGOhbHk93XUEJiIw_U5P/view?usp=drivesdk)
 
 ### Vendor Image
 - [**RECOMMENDED** - Vendor 20190731.img](https://drive.google.com/file/d/1n1TcOXpVtore5M7-lVpHv7IP9Q3z00Sv/view)
@@ -75,39 +74,17 @@ For 4.9 Vendor (Flex's):
 
 --------------
 
-### Magisk
-In order to install Magisk on Pie, download stable [Magisk 19.3](https://github.com/topjohnwu/Magisk/releases/download/v19.3/Magisk-v19.3.zip) and flash in TWRP. once booted, if the app is not showing in the app drawer, install manually [Magisk Manager 7.3.2](https://github.com/topjohnwu/Magisk/releases/download/manager-v7.3.2/MagiskManager-v7.3.2.apk
 
-### Camera
-Arnova's Camera (5.1 & 6.2)
-- Gcam 5.1: [Download](https://f.celsoazevedo.com/file/gcamera/GCam-5.1.018-Pixel2Mod-Arnova8G2-V8.3b1.apk)
-- Gcam 6.2: [Download](https://t.me/TissotGCam/45206)
-
-To Fix Camera (if broken), open terminal /termux)
-```
-pm install cameraname.apk
-```
-or adb
-```
-adb install cameraname.apk
-```
 
 ### Disable Hardware Capacitive Buttons
 In order to disable Capacitive Buttons flash this module in Magisk and reboot
 - [**RECOMMENDED** - HWKeys-Disabler.zip](https://drive.google.com/file/d/1-7P1VW1TFDA4glCL2n2F)
 
-### Wrong Pin/Password Fix
-In order to fix Wrong Pin/Password, flash [Permissiver_v5](https://www.androidfilehost.com/?fid=6006931924117940902)
-
-### Fix No Signal - No SIM
-- [Fix "No Signal - No SIM"](https://telegra.ph/Fix-No-Signal---No-SIM-in-Pie-sGSI-01-06)
-
 ### Useful Modules
 - [**TWRP** - Pixel Boot Logo](https://drive.google.com/file/d/1WbdCb5AciXBo9lxoGglMnPXJHhxxTNsw/view?usp=drivesdk)
 ---------------------
 
-### OT Telegram Group
-If u like the off-topic, here u are: https://t.me/psemiGSIOT
+
 
 ------------
 <p align="center">
